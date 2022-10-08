@@ -1,0 +1,15 @@
+{
+    "params" :
+    {
+        "local_server": "True",
+        "local_uri":"mysql://root:@localhost/techpy",
+        "prod_uri":"mysql://root:@localhost/techpy",
+        "facebook_uri":"https://github.com/himanshubabbarUC",
+        "twitter_uri":"https://github.com/himanshubabbarUC",
+        "git_uri":"https://github.com/himanshubabbarUC",
+        "title":"PY-Tech",
+        "sub_title":"All about python will be written here for all of you.",
+        "gmail_username":"himanshubabbar1806@gmail.com",
+        "gmail_password":"bhaibhai6"
+    }
+}
